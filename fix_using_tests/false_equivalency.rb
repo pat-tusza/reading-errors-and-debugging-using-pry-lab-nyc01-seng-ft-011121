@@ -11,7 +11,7 @@ def prompt_user
   puts "2.) Eat a ham."
 end
 
-get_user_input
+
 
 def selection(num)
   if num = 1
