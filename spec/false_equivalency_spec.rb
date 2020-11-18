@@ -1,5 +1,5 @@
 require_relative '../fix_using_tests/false_equivalency'
-require 'pry'
+
 
 
 describe "false_equivalency" do
